@@ -29,7 +29,7 @@ with open(cwb_filename) as csvfile:
 
 target = []
 stations = ['C0A880', 'C0F9A0','C0G640', 'C0R190', 'C0X260']
-#stations = ['C0A880', 'C0F9A0','C0G640', 'C0R190', 'C0X260', 'A']
+
 for station in stations:
    target_data = list(filter(lambda item: item['station_id'] == station, data))
    sum = 0.0
