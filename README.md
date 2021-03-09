@@ -1,4 +1,5 @@
 # HW1 Python Data Analysis
+Find out the mean of the pressure values from the sation C0A880, C0F9A0, C0G640, C0R190 and C0X260
 
 ## How to set up and run my program
 1. Read the data by the sample code provided
